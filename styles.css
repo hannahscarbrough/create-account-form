@@ -1,0 +1,36 @@
+* {
+    font-family: arial;
+}
+
+.container {
+    border: 1px solid black;
+    background-color: aliceblue;
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    margin-top: 15%;
+    overflow: hidden;
+
+}
+
+body {
+    background-color: aqua;
+}
+
+.content {
+    text-align: right;
+    line-height: 60px;
+    margin-right: 120px;
+}
+
+.title {
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+}
+
+input {
+    width: 200px;
+}
